@@ -192,6 +192,9 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
+<h2>Sponsor</h2>
+<p> This workshop is supported by ELIXIR-EXCELERATE. ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.</p>
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
