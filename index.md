@@ -199,6 +199,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     	<img alt="NIOO-KNAW" src="assets/img/nioo.png">
   	</a>
 </div>
+<div>
+	<a href="http://www.graduateschool-eps.info/" title="graduateschool-EPS">
+    	<img alt="Graduateschool-EPS" src="assets/img/eps.png">
+  	</a>
+</div>
+<div>
+	<a href="https://www.uva.nl" title="UVA">
+    	<img alt="UVA" src="assets/img/uva.png">
+  	</a>
+</div>
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
