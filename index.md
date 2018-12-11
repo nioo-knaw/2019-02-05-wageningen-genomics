@@ -187,8 +187,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
-<h2>Sponsor</h2>
-<p> This workshop is supported by ELIXIR-EXCELERATE, NIOO-KNAW, UvA and The Graduate School Experimental Plant Sciences. ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.</p>
+<!--
+  SPONSORS, SUPPORTERS
+  -->
+  
+<h2>Sponsors and supporters</h2>
+<p> This workshop is sponsored and supported by ELIXIR-EXCELERATE, NIOO-KNAW, UvA and The Graduate School Experimental Plant Sciences. ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.</p>
 <div class="row">
   <div class="col-md-12">
 	<a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate" title="EXCELERATE">
