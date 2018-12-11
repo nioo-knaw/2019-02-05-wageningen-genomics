@@ -188,13 +188,17 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 <h2>Sponsor</h2>
-<p> This workshop is supported by ELIXIR-EXCELERATE. ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.</p>
+<p> This workshop is supported by ELIXIR-EXCELERATE and NIOO-KNAW. ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.</p>
 <div>
 	<a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate" title="EXCELERATE">
     	<img alt="EXCELERATE" src="assets/img/Excelerate_EU-flag.png">
   	</a>
 </div>
-
+<div>
+	<a href="https://www.nioo.knaw.nl" title="NIOO-KNAW">
+    	<img alt="NIOO-KNAW" src="assets/img/nioo.png">
+  	</a>
+</div>
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
