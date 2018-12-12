@@ -199,19 +199,24 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     	<img alt="EXCELERATE" src="assets/img/Excelerate_EU-flag.png">
   	</a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
 	<a href="https://www.nioo.knaw.nl" title="NIOO-KNAW">
     	<img alt="NIOO-KNAW" src="assets/img/nioo.png">
   	</a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
 	<a href="http://www.graduateschool-eps.info/" title="graduateschool-EPS">
     	<img alt="Graduateschool-EPS" src="assets/img/eps.png">
   	</a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
 	<a href="https://www.uva.nl" title="UvA">
     	<img alt="UvA" src="assets/img/uva.png">
+  	</a>
+  </div>
+	<div class="col-md-4">
+	<a href="https://www.dtls.nl" title="DTL">
+    	<img alt="UvA" src="assets/img/DTL_short.png">
   	</a>
   </div>
 </div>
