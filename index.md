@@ -216,13 +216,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 	<div class="col-md-3">
 	<a href="https://www.dtls.nl" title="DTL">
-    	<img alt="UvA" src="assets/img/DTL_short.png">
+    	<img alt="DTL" src="assets/img/DTL_short.png">
   	</a>
   </div>
-  </div>
-	<div class="col-md-3">
+  <div class="col-md-3">
 	<a href="https://www.surfsara.nl" title="SURFsara">
-    	<img alt="UvA" src="assets/img/surf_sara.png">
+    	<img alt="SURFsara" src="assets/img/surf_sara.png">
   	</a>
   </div>
 </div>
