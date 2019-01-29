@@ -219,6 +219,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     	<img alt="UvA" src="assets/img/DTL_short.png">
   	</a>
   </div>
+  </div>
+	<div class="col-md-3">
+	<a href="https://www.surfsara.nl" title="SURFsara">
+    	<img alt="UvA" src="assets/img/surf_sara.png">
+  	</a>
+  </div>
 </div>
 					       
 {% comment %} 
